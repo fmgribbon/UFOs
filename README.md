@@ -15,8 +15,10 @@ The initial webpage will display at the top of the page a paragraph about UFO Si
      **To enter a search criteria:** Enter the data in the appropriate field.
 
         **Note:**  Use the same data format as displayed in the text box or refer to the UFO sighting data table displayed on the right.
+        ![alt tag](https://github.com/fmgribbon/UFOs/blob/main/images/bottonHalf.PNG)
         
 2. Hit **enter** to display the filtered table based on the criteria
+   ![alt tag](https://github.com/fmgribbon/UFOs/blob/main/images/searchResults.PNG)
  
 ##### To enter a new search criterion.
  
